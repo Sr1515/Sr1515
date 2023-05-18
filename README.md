@@ -2,8 +2,9 @@
 ### Yo! Welcome to my Github profile.
 ### Eu me chamo João Victor 👋
 
-🌱 Atualmente estou cursando 
-Análise e Desenvolvimento de Sistemas - IFPB
+🌱 About me: 
+- Formado em técnico em informática - IFPB (2021)
+- Cursando 2° período de Análise e Desenvolvimento de Sistemas - IFPB
 
 <div>
 <a href="https://github.com/Sr1515">
