@@ -3,7 +3,7 @@
 ### Eu me chamo João Victor 👋
 
 🌱 About me: 
-- Formado em técnico em informática - IFPB (2021)
+- Técnico em informática formado no IFPB (2021)
 - Cursando 2° período de Análise e Desenvolvimento de Sistemas - IFPB
 
 <div>
