@@ -1,6 +1,6 @@
 
 ### Yo! Welcome to my Github profile.
-### Eu me chamo João Victor 👋
+### My name is João Victor 👋
 
 🌱 About me: 
 - Técnico em informática formado no IFPB (2021)
