@@ -4,7 +4,7 @@
 
 🌱 About me: 
 - Técnico em informática formado no IFPB (2021)
-- Cursando 3° período de Análise e Desenvolvimento de Sistemas - IFPB
+- Cursando 4° período de Análise e Desenvolvimento de Sistemas - IFPB
 
 <div>
 <a href="https://github.com/Sr1515">
