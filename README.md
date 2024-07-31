@@ -3,8 +3,8 @@
 ### My name is João Victor 👋
 
 🌱 About me: 
-- Técnico em informática formado no IFPB (2021)
-- Cursando 4° período de Análise e Desenvolvimento de Sistemas - IFPB
+- Computer technician graduated from IFPB (2021)
+- Studying 4th period of Systems Analysis and Development - IFPB
 
 <div>
 <a href="https://github.com/Sr1515">
@@ -25,5 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+          
 </div>
 
