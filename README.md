@@ -4,7 +4,7 @@
 
 🌱 About me: 
 - Computer technician graduated from IFPB (2021)
-- Studying 4th period of Systems Analysis and Development - IFPB
+- Studying 5th period of Systems Analysis and Development - IFPB
 
 <div>
 <a href="https://github.com/Sr1515">
